@@ -19,12 +19,12 @@ Technologies and Languages </h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,typescript,angular,cs," />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,typescript,angular,cs,dotnet" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,java,git,github,azure,postgres" />
+    <img src="https://skillicons.dev/icons?i=octave,java,git,github,azure,postgres" />
   </a>
 </p>
 
