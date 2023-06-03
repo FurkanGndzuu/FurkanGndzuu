@@ -24,7 +24,7 @@ Technologies and Languages </h2>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=octave,java,git,github,azure,postgres,rabbitmq" />
+    <img src="https://skillicons.dev/icons?i=octave,java,git,github,postgres,rabbitmq,docker" />
   </a>
 </p>
 
