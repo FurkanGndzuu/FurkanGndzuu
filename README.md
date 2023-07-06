@@ -19,7 +19,7 @@ Technologies and Languages </h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,angular,cs,dotnet,redis,rabbitmq" />
+    <img src="https://skillicons.dev/icons?i=typescript,angular,cs,dotnet,redis,rabbitmq,kubernetes" />
   </a>
 </p>
 <p align="center">
